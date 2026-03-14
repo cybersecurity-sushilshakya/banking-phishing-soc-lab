@@ -2,6 +2,13 @@
 
 This project demonstrates a phishing attack simulation and SOC investigation environment.
 
+## Skills Demonstrated
+- Phishing attack simulation
+- Email security analysis
+- Network traffic investigation
+- IDS rule creation
+- SOC incident investigation
+
 ## Lab Objectives
 
 - Simulate phishing email attack
